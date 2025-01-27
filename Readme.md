@@ -1,5 +1,6 @@
 # 🧠 Enterprise Knowledge Manager (EKM)
-![Project Banner](assets/banner.png)
+![image](https://github.com/user-attachments/assets/556bdb47-2439-4ca4-b01c-139150f7ecf6)
+
 
 ## 📌 Tabla de Contenidos
 - [🚀 Características Principales](#-características-principales)
