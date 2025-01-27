@@ -1,6 +1,8 @@
 # SafeSessionState Library
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+![image](https://github.com/user-attachments/assets/1e2f62cd-6c53-44c7-bc28-ea7fce838463)
+
 A thread-safe wrapper for managing session state in web applications. SafeSessionState provides a secure and efficient way to handle concurrent access to session data while preventing race conditions and ensuring data consistency.
 
 ## 📋 Table of Contents
