@@ -1,5 +1,6 @@
-# SafeSessionState Library
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+# SafeSessionState Library
 
 A thread-safe wrapper for managing session state in web applications. SafeSessionState provides a secure and efficient way to handle concurrent access to session data while preventing race conditions and ensuring data consistency.
 
@@ -98,20 +99,25 @@ with session_state.query_params() as params:
 ## Screenshots
 
 ### Dashboard View
-[Insert screenshot showing the main dashboard interface]
+![Dashboard](ruta/a/tu/imagen/dashboard.png)
+*Caption: Main dashboard interface showing session state management*
 
 ### State Management Interface
-[Insert screenshot showing the state management interface]
+![State Management](ruta/a/tu/imagen/state-management.png)
+*Caption: Interface for managing session states and configurations*
 
 ### Query Parameters Panel
-[Insert screenshot showing the query parameters panel]
+![Query Parameters](ruta/a/tu/imagen/query-params.png)
+*Caption: Panel displaying active query parameters and their values*
 
 ## Contributing
-We welcome contributions! Please see our contributing guidelines for details on how to:
-- Submit bug reports
-- Request features
-- Submit pull requests
-- Join our community
+We welcome contributions! Please follow these steps to contribute:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
 ## License
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
